@@ -25,5 +25,6 @@ Designed for older laptops/desktops that peg CPU at 100% due to `Antimalware Ser
    
 ## License
 MIT © 2025 Anjum Yaseen  
-See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE.txt) for details.
+
 
